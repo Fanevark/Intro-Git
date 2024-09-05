@@ -5,3 +5,6 @@ def add(a: int, b: int) -> int:
 
 def sub(a: int, b: int) -> int: 
     return a - b
+
+def div(a:int, divider: int) -> int:
+    return a / b
