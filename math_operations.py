@@ -7,4 +7,4 @@ def sub(a: int, b: int) -> int:
     return a - b
 
 def div(a:int, divider: int) -> int:
-    return a / b
+    return a / divider
